@@ -1,4 +1,4 @@
-# KH-SAM
+# PDSAM
 
 This project focuses on the problem of track defect detection. Based on SAM, we added knowledge heuristics to improve the performance and prediction speed of track defect detection. We tested our model on the datasets Type-I_RSDDs_dataset, Type-II_RSDDs_dataset, rsdds-dataset_link, rail400_2048x2000_nc3, and rail400_2048x2000_nc8, and achieved significant performance improvements.
 
